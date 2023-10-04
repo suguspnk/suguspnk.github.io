@@ -1,0 +1,33 @@
+// import bootstrap
+@import 'bootstrap/bootstrap';
+
+// import theme style
+// @import 'variables';
+
+// @import 'mixins';
+
+// @import 'typography';
+
+//
+
+// @import 'common';
+
+// @import 'templates/navigation.scss';
+
+// @import 'templates/main.scss';
+
+
+@import 'variables';
+@import 'mixins';
+@import 'typography';
+@import 'buttons';
+@import 'common';
+
+
+
+@import 'templates/navigation';
+@import 'templates/homepage';
+@import 'templates/aboutpage';
+@import 'templates/contact';
+@import 'templates/blog';
+@import 'templates/portfolio';
